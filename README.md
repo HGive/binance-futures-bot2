@@ -1,2 +1,2 @@
 # binance-futures-bot
-binance futures trading bot
+binance futures trading bot2
